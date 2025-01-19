@@ -6,3 +6,13 @@
 
 サーバーはWindowsにubunts入れる
 
+cloudflare tunnelを使用する
+
+typescript
+
+oracle
+
+react
+
+
+
